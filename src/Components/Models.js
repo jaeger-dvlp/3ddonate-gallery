@@ -69,7 +69,7 @@ export class Models extends Component {
       }
     ]
     return (
-      <div className="container mt-5">
+      <div className="container mt-5 mb-5">
         <div className=" col-12 d-flex row m-0">
           {_3dModels.map((object, id) => {
             return (
