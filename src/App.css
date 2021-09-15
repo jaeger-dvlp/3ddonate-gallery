@@ -24,10 +24,6 @@ body {
   transform: scale(1.1);
 }
 
-.model-viewer-cont {
-  /*  */
-}
-
 .model-viewer {
   z-index: 1;
   border-radius: 10px;
