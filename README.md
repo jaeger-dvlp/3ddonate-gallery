@@ -4,4 +4,4 @@
 
 ## Known Issues
 
-- Max 3D Model Component amount is 21, other it's crashing.
+- Max 3D Model Component amount is 21, otherwise it's crashing.
